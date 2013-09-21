@@ -1,2 +1,68 @@
 2013-09-21 01:47:46.334 [Worker-2] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@572433e7
 2013-09-21 01:47:46.390 [Worker-2] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@49b41220
+2013-09-21 02:01:24.109 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.113 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats=com.objectaid.uml.render.RasterRenderFormat
+2013-09-21 02:01:24.132 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats=com.objectaid.uml.render.RasterRenderFormat
+2013-09-21 02:01:24.133 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats=com.objectaid.uml.render.IndexedRasterRenderFormat
+2013-09-21 02:01:24.134 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.render.SVGRenderFormat in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.135 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats=com.objectaid.uml.addon.render.SVGRenderFormat but cannot load class
+2013-09-21 02:01:24.135 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.addon.render.PDFRenderFormat in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.135 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.renderFormats=com.objectaid.uml.addon.render.PDFRenderFormat but cannot load class
+2013-09-21 02:01:24.136 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.136 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.136 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.137 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.accessor.ReflectionAccessor in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.137 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor but cannot load class
+2013-09-21 02:01:24.137 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.accessor.ReflectionAccessor in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.138 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor but cannot load class
+2013-09-21 02:01:24.138 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.accessor.ReflectionAccessor in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.138 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor but cannot load class
+2013-09-21 02:01:24.138 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.accessor.ReflectionAccessor in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.138 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor but cannot load class
+2013-09-21 02:01:24.139 [main] WARNING com.objectaid.uml.util.EclipseHelper loadClass: cannot find com.objectaid.uml.model.accessor.ReflectionAccessor in [], no license for [com.objectaid.uml.addon]
+2013-09-21 02:01:24.139 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor but cannot load class
+2013-09-21 02:01:24.139 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.140 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.140 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.140 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.141 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.141 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.141 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.142 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.142 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.142 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.143 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.143 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.145 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.145 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.146 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.146 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.146 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.147 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.147 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.147 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.148 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.148 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.150 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.151 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.152 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.152 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.153 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.153 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.154 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.154 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.154 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.155 [main] INFO    com.objectaid.uml.util.extend.ExecutableExtensionManager loadExtensions: found com.objectaid.uml.accessors=com.objectaid.uml.model.accessor.ReflectionAccessor
+2013-09-21 02:01:24.155 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:01:25.718 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:02:04.178 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:02:04.183 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:07:58.322 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:07:58.489 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:17:56.383 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:18:26.738 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:18:26.902 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:18:45.211 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:18:48.137 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:18:50.052 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors
+2013-09-21 02:18:57.252 [main] WARNING com.objectaid.uml.controller.delegate.ReflectionAccessorActionDelegate getAccessor: cannot find accessor for action show-property-accessors

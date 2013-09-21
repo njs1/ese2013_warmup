@@ -226,3 +226,9 @@ org.eclipse.core.internal.resources.ResourceException: A resource already exists
 
 !ENTRY com.google.gdt.eclipse.suite 1 0 2013-09-21 01:51:23.445
 !MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.7.5
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2013-09-21 01:56:56.555
+!MESSAGE Server returned lastModified <= 0 for http://marketplace.obeonetwork.com/updates/od61/compositeArtifacts.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2013-09-21 01:57:03.637
+!MESSAGE Server returned lastModified <= 0 for http://marketplace.obeonetwork.com/updates/od61/marketplace/artifacts.jar
